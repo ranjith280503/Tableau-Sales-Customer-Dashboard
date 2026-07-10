@@ -65,16 +65,13 @@ Sales-Customer-Dashboard/
 ```
 
 ---
+Sales Dashboard Image:
+ <img width="1227" height="1080" alt="Sales" src="https://github.com/user-attachments/assets/f381a0fb-2827-4ac6-a969-e22451a187b3" />
+Customer Dashboard Image:
+<img width="1206" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/fc569185-1568-4f68-98d9-0f9dcc241e5f" />
 
-# 📷 Dashboard Preview
 
-Add screenshots of both dashboards in the **Images** folder.
-
-```markdown
-![Sales Dashboard](Images/Sales_Dashboard.png)
-
-![Customer Dashboard](Images/Customer_Dashboard.png)
-```
+ 
 
 ---
 
